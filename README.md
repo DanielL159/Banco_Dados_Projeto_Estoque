@@ -264,7 +264,7 @@ Essa ordem garante que o banco seja criado corretamente, os dados sejam inserido
 | Script SQL DML com carga inicial de, no mínimo, 100 registros                | Atendido                                         |
 | Script SQL DQL com estatísticas e relatórios usando funções agregadas e JOIN | Atendido                                         |
 | Repositório no GitHub contendo scripts e diagramas                           | Atendido                                         |
-| Vídeo de apresentação e link do repositório                                  | A ser entregue conforme orientação da disciplina |
+| Vídeo de apresentação e link do repositório                                  | Atendido                                         |
 
 ---
 
